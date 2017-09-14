@@ -1,6 +1,6 @@
-/**
- * Created by jc345932 on 7/09/17.
- */
-public class InvalidMarkException {
+public class InvalidMarkException{
 
+    public static void main(String[] args) {
+        System.out.println("invalid score");
+    }
 }
