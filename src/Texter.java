@@ -22,16 +22,11 @@ public class Texter {
 
         catch (FileNotFoundException f) {
             System.out.print(f.getMessage());
-
         }
 
         catch (IOException i){
 
             System.out.print(i.getMessage());
         }
-
-
-
     }
-
 }
